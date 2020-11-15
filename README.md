@@ -17,3 +17,6 @@ The system is currently compatible with the following macOS versions:
 
 ## WARNING 
 If you follow this guide please do the steps exactly as they stand there. In the event of errors or damage, I do not accept any responsibility. Installing Apple's own software on other NOT APPLE DEVICES is prohibited and should therefore be used ONLY for your own use. For this reason, there will be no full software for download here, but only the instructions on how and where to get it from. If you have any problems or questions, I'm happy to be open and hope that this project will help a few people understand the installation of other systems and get to know bootloaders. Information to form myself I have linked from the very good explanation of profzei's instructions (at the end of the page)
+
+## Ready to start? 
+From here the installation starts you will be forwarded [here](coming soon) to the wiki and can start the preparations. Have fun and thank you for following this guide. :)
