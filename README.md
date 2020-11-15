@@ -1,4 +1,4 @@
-# MateBook-X-pro-2019-Hackintosh-ENG-DE
+# MateBook-X-Pro-2019-Hackintosh-ENG/DE
 
 ### Project to change the operating System of your Matebook X Pro from Windows to macOS
 
