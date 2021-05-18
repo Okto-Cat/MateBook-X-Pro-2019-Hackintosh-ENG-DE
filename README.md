@@ -11,9 +11,9 @@ This is a project to set up a Hackintosh. This project stands out from the other
 ## Important information and compatibility
 My current Hackintosh system is the model: MACH-W19 and has the Official BIOS on version 1.30
 The system is currently compatible with the following macOS versions:
-- macOS Mojave – 10.14 (full Software)
-- macOS Catalina – 10.15 (inkl. all little Updates)
-- macOS Big Sur – 11.0.1 (in development)
+- macOS Catalina – 10.15 (full OS)
+- macOS Big Sur – 11.0.1 (full OS)
+- macOS Big Sur - 11.3.0 (full OS)
 
 ## WARNING 
 If you follow this guide please do the steps exactly as they stand there. In the event of errors or damage, I do not accept any responsibility. Installing Apple's own software on other NOT APPLE DEVICES is prohibited and should therefore be used ONLY for your own use. For this reason, there will be no full software for download here, but only the instructions on how and where to get it from. If you have any problems or questions, I'm happy to be open and hope that this project will help a few people understand the installation of other systems and get to know bootloaders. Information to form myself I have linked from the very good explanation of profzei's instructions (at the end of the page)
